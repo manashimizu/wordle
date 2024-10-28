@@ -21,7 +21,6 @@ for i in range(6):
 
     flag = [0, 0, 0, 0, 0]
 
-    #全探索
     for j in range(5):
         for k in range(5):
             if ans[j] == s[j]:
